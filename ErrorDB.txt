@@ -1,0 +1,1 @@
+Error Code: 1813. Tablespace for table '`cursobd`.`clientes`' exists. Please DISCARD the tablespace before IMPORT
